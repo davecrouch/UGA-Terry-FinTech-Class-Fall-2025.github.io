@@ -55,6 +55,6 @@ I'm interested in GenAI for FinTech, college football, and working as little as 
 
 ## Quick links
 
-* Live site: <https://uga-terry-fintech-class-fall-2025.github.io>
+* Live site: <https://uga-terry-fintech-Git-Class.github.io>
 
 * Add yourself: Create a file like `_students/first-last.md` and paste the template.
